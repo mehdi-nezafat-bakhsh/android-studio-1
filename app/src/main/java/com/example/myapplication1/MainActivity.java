@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
 
     @OnClick(R.id.button)
     public void buttonOneClicked() {
-        Toast toast = Toast.makeText(getApplicationContext(), "Hello world.", Toast.LENGTH_SHORT);
+        Toast toast = Toast.makeText(getApplicationContext(), "Hello world. again", Toast.LENGTH_SHORT);
         toast.setGravity(Gravity.CENTER, 0b0, 0);
         toast.show();
         image1.setImageResource(R.drawable.kk);
