@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My Application 1</string>
+    <string name="key">secret key 09191387454</string>
 </resources>
